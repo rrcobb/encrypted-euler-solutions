@@ -1,2 +1,4 @@
 *.py
-
+*.rb
+*.hs
+old-euler/**
